@@ -1,1 +1,3 @@
-# Evaluaci-n_T2
+# Evaluación_T2
+
+Freyra Wendy Martínez Martínez 230110434
